@@ -1,5 +1,5 @@
 {
-    "name": "Renato-Silva/laravel-cloudwatch-logs",
+    "name": "renatosilva/laravel-cloudwatch-logs",
     "description": "Laravel Adapter for AWS CloudWatch",
     "type": "library",
     "license": "MIT",
